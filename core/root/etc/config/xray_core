@@ -1,6 +1,6 @@
 config general
 	list blocked_domain_rules 'geosite:category-ads'
-	list bypassed_domain_rules 'geosite:ru'
+	list bypassed_domain_rules 'geosite:category-ru'
 	list geoip_direct_code_list 'ru'
 	list geoip_direct_code_list_v6 'ru'
 	list tproxy_ifaces_v4 'br-lan'
